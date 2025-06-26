@@ -1,0 +1,7 @@
+{
+  "name": "ilarstaff",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
